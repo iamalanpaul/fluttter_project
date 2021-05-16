@@ -38,7 +38,7 @@ class _calculatorState extends State<calculator> {
 
         }
         catch(e){
-          result = 'ERROR!!';
+          result = 'ERROR OCCURED!!';
         }
       }
       else{
